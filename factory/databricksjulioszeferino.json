@@ -1,0 +1,9 @@
+{
+	"name": "databricksjulioszeferino",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0cd09d4d-bb75-4585-8517-74d6faada2ec",
+		"tenantId": "caef5d00-f405-48d2-bc50-64ad1d91bf5c"
+	}
+}
